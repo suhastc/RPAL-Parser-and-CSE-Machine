@@ -3,7 +3,7 @@ The objective of Project 1 is to implement a lexical analyzer, and a recursive d
 
 RPAL INTERPRETER:
 -----------------
-- To Compile:
+- To Compile: use the following command
 
   >> make
 
